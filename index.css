@@ -6,19 +6,32 @@
 }
 body {
     font-family: 'Lato' !important; 
+    background: #fff;
 }
 main {
     margin-top: 50px; 
 }
 .navbar-color {
-    background: #7c73e6;
+    background: #fff;
 }
-.text-color {
-    color: #fff;
-}
+
 .button-color {
     background: #7c73e6; 
 }
-.nav-link{
-    color: #fff;
+.bg-main-color {
+    background: #FF5851; 
+}
+.main-font-color {
+    color: #1C1B20; 
+}
+.white-font-color {
+    color: #fff; 
+}
+.title-decoration {
+    font-size: 12vw;
+    letter-spacing: 1vw;
+    line-height: 1;
+}
+.fw-bolder {
+    font-weight: 900 !important;
 }
